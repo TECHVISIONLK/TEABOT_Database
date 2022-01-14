@@ -1,8 +1,8 @@
 {
-  "name": "@adiwajshing/baileys",
+  "name": "@TECHVISIONLK/TEABOT_Database",
   "version": "3.5.3",
-  "description": "WhatsApp Web API",
-  "homepage": "https://github.com/adiwajshing/Baileys",
+  "description": "TEA BOT DataBase",
+  "homepage": "https://github.com/TECHVISIONLK/TEABOT_Database",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
@@ -26,13 +26,13 @@
     "gen-protobuf": "bash src/Binary/GenerateStatics.sh",
     "browser-decode": "yarn ts-node src/BrowserMessageDecoding.ts"
   },
-  "author": "Adhiraj Singh",
+  "author": "TECHVISION LK",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:adiwajshing/baileys.git"
+    "url": "git@github.com:TECHVISIONLK/TEABOT_Database.git"
   },
   "dependencies": {
-    "@adiwajshing/keyed-db": "^0.2.2",
+    "@TECHVISIONLK/TEABOT_API": "^0.2.2",
     "curve25519-js": "^0.0.4",
     "futoin-hkdf": "^1.3.2",
     "got": "^11.8.1",
